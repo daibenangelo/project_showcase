@@ -1,0 +1,91 @@
+#icon {
+  height: 35px;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Poppins", sans-serif;
+}
+
+.proj-title {
+  font-weight: 800;
+  font-size: 110% !important;
+  margin-bottom: 0px;
+}
+
+.proj-artist {
+  margin-top: 0px;
+  font-size: 70%;
+}
+
+.proj-rating {
+  color: rgb(200, 160, 48);
+}
+
+.proj-release {
+  color: gray;
+}
+
+.proj-bar {
+  font-weight: 1000;
+  color: rgb(200, 160, 48);
+}
+
+.proj-price {
+  font-weight: 800;
+}
+
+.section-about {
+  background-color: rgb(200, 160, 48);
+}
+
+#hero-img {
+  margin: 0px;
+  padding: 0px;
+}
+
+#hero-section {
+  position: relative;
+}
+
+#hero-tag {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  padding: 10px;
+}
+
+.card-title {
+  font-size: 16px;
+}
+
+.card {
+  border-color: #fd7702;
+}
+
+.display-1 {
+  font-weight: 1000;
+  text-shadow: 4px 4px #003f7d;
+  color: #fd7702;
+}
+
+.btn-view {
+  border-color: #fd7702;
+}
+
+.btn-view:hover {
+  background-color: #003f7d;
+  color: white;
+}
+
+a {
+  color: #003f7d;
+}
+
+b {
+  color: #fd7702;
+}
