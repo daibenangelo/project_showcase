@@ -52,7 +52,6 @@ $(document).ready(function () {
         card_full += card;
       }
       document.getElementById("cards").innerHTML = card_full;
-      console.log(card_full);
     })
     .catch((error) => {
       console.error("Error fetching JSON:", error);
