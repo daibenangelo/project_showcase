@@ -1,11 +1,11 @@
 $(document).ready(function () {
-  fetch("../database/projects.json")
+  fetch("database/projects.json")
     .then((response) => response.json())
     .then((data) => {
       let projects = data.projects;
       let card_full = "";
       for (let i = 0; i < projects.length; i++) {
-        let proj_image = "../img/" + projects[i].image;
+        let proj_image = "img/" + projects[i].image;
         let proj_name = projects[i].name;
         let proj_author = projects[i].author;
         let proj_period = projects[i].period;
