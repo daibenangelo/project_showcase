@@ -2,6 +2,66 @@
   "project_name": "KodeGo Project Viewer",
   "projects": [
     {
+      "name": "Halukay",
+      "author": "Dante Magbuhos, Kristanna Agnes Nical, John Paul Quiachon",
+      "period": "Capstone",
+      "batch": "93",
+      "category": "Clothing",
+      "image": "pr-halukay.png",
+      "repo_link": "https://github.com/thekrisKristanna/capstone",
+      "live_link": "https://halukay.onrender.com/",
+      "good_pts": ["Good colors", "Cohesive", "Solid content quantity"],
+      "bad_pts": ["Minor errors in admin"]
+    },
+    {
+      "name": "Trident Business",
+      "author": "Keith Aquino, Maynard Villalobos, John Rafael Uchi",
+      "period": "Capstone",
+      "batch": "93",
+      "category": "Transportation",
+      "image": "pr-trident.png",
+      "repo_link": "https://github.com/zzzarkaztik/capstone_project",
+      "live_link": "https://capstone-project-npbv.onrender.com/",
+      "good_pts": ["Good colors", "Cohesive", "Solid content quantity"],
+      "bad_pts": ["Minor errors in admin", "Lack of content in home page"]
+    },
+    {
+      "name": "PSWorld",
+      "author": "Keith Aquino, Dante Magbuhos",
+      "period": "MP2",
+      "batch": "93",
+      "category": "Gaming",
+      "image": "pr-psworld.png",
+      "repo_link": "https://github.com/djmagbuhos/MP2",
+      "live_link": "https://djmagbuhos.github.io/MP2/",
+      "good_pts": ["Good colors", "Solid content quantity"],
+      "bad_pts": ["Lack of strong design elements"]
+    },
+    {
+      "name": "THWP",
+      "author": "Maynard Arvin Villalobos",
+      "period": "MP1",
+      "batch": "93",
+      "category": "Dating",
+      "image": "pr-thwp.png",
+      "repo_link": "https://github.com/zzzarkaztik/MP1-THWP",
+      "live_link": "https://zzzarkaztik.github.io/MP1-THWP/",
+      "good_pts": ["Good colors", "Quality image choice", "Good font choice"],
+      "bad_pts": ["n/a"]
+    },
+    {
+      "name": "Synrgy",
+      "author": "Kristanna Agnes Nical",
+      "period": "MP1",
+      "batch": "93",
+      "category": "Travel",
+      "image": "pr-synrgy.png",
+      "repo_link": "https://github.com/thekristanna/mp1-synrgy",
+      "live_link": "https://thekristanna.github.io/mp1-synrgy/index.html",
+      "good_pts": ["Good colors", "Quality image choice", "Good font choice"],
+      "bad_pts": ["Lack of content in home page"]
+    },
+    {
       "name": "Journey Trails",
       "author": "Norhajar Guiamat Gabuya",
       "period": "MP1",
@@ -104,18 +164,6 @@
         "Good colors"
       ],
       "bad_pts": ["Missing key page(s)"]
-    },
-    {
-      "name": "Online Virtual Services",
-      "author": "Orland Jude Villanueva",
-      "period": "MP1",
-      "batch": "38",
-      "category": "Tech Services",
-      "image": "pr-ovs.png",
-      "repo_link": "https://github.com/orling09/miniproject_1",
-      "live_link": "https://orling09.github.io/miniproject_1/",
-      "good_pts": ["Design consistency", "Good colors"],
-      "bad_pts": ["Not standard font", "Inconsistent assets"]
     },
     {
       "name": "UST-CDO",
